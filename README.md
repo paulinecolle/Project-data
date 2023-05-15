@@ -10,3 +10,12 @@ Instructions on how we constructed our data management project :
    
    -Afterwards, the data was stored in a data frame. However, note that the location information data was not present in the principal pages of the website where each housing cells were pooled but could only be found in each individual page of each housing so we had to develop a command that opened each cell of the hundreds of observations and collected the location info and went back to the main page and repeated that same process with each observation of our sample. All this information on the location of the housings were stored in another data frame. 
    -Then the different data frames were exported as Excel files because it was too time-consuming to re-load all of the webscrapping part. You will notice that the next two parts are based on those Excel files.
+euh je sais pas quoi dire de plus, pauline i giveyou the floor
+
+2.Visualisation part
+    -Installation of all the packages.
+    -Import the merged data frame with all the information we webscrapped.
+    -Converting the data to float type in order to be able to use them in graphs.
+    -Descriptive statistics : we constructed many graphs to visualise the different properties of our data set, for example, to see if there was any relation with the price and other characteristics such as rating, type of announcement, etc. (All necessary explanations are written in the Visualisation notebook)
+    euhhh je vois pas quoi dire d'autre, c'est pas sorcier
+    
