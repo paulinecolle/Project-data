@@ -37,4 +37,7 @@ Finally, thanks to the "Names" column, the two previous data frame were merged i
     -Converting the data to float type in order to be able to use them in graphs.
     -Descriptive statistics : we constructed many graphs to visualise the different properties of our data set, for example, to see if there was any relation with the price and other characteristics such as rating, type of announcement, etc. (All necessary explanations are written in the Visualisation notebook)
     euhhh je vois pas quoi dire d'autre, c'est pas sorcier
+
+**3. Modelling**
+
     
