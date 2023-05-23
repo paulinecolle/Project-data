@@ -32,12 +32,20 @@ This information was stored in another data frame, and also exported as an Excel
 Finally, thanks to the "Names" column, the two previous data frame were merged into one.
 
 **2.Visualisation part**
-    -Installation of all the packages.
-    -Import the merged data frame with all the information we webscrapped.
-    -Converting the data to float type in order to be able to use them in graphs.
-    -Descriptive statistics : we constructed many graphs to visualise the different properties of our data set, for example, to see if there was any relation with the price and other characteristics such as rating, type of announcement, etc. (All necessary explanations are written in the Visualisation notebook)
-    euhhh je vois pas quoi dire d'autre, c'est pas sorcier
+- Installation of all the packages.
+-     Import the merged data frame with all the information we webscrapped.
+-     Converting the data to float type in order to be able to use them in graphs.
+-     Descriptive statistics : we constructed many graphs to visualise the different properties of our data set, for example, to see if there was any relation with the price and other characteristics such as rating, type of announcement, etc. (All necessary explanations are written in the Visualisation notebook)
+
+In this notebook can be find some elements of response to our question, based on the graphs realised.
 
 **3. Modelling**
 
+This last notebook constitute the modelling part. We realised a linear regression with machine learning.
+
+The first part consists in loading the data from the same Excel sheet as in notebook 2. Because coming from Excel, the data are not completely ready for use, we cleaned them. We transform the numerical values in float types and added the variables of the logarithm of the price.
+
+Before starting the regression, we realised a correlation matrix to have an idea of how the variables are correlated with each other.
+
+Then, we started the supervised machine learning part. The code for this procedure comes mainly from the notebook about this part of the content, but adapted for our case. All interpretation about the results can be find in the notebook.
     
