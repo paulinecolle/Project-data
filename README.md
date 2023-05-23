@@ -33,9 +33,9 @@ Finally, thanks to the "Names" column, the two previous data frame were merged i
 
 **2.Visualisation part**
 - Installation of all the packages.
--     Import the merged data frame with all the information we webscrapped.
--     Converting the data to float type in order to be able to use them in graphs.
--     Descriptive statistics : we constructed many graphs to visualise the different properties of our data set, for example, to see if there was any relation with the price and other characteristics such as rating, type of announcement, etc. (All necessary explanations are written in the Visualisation notebook)
+- Import the merged data frame with all the information we webscrapped.
+- Converting the data to float type in order to be able to use them in graphs.
+- Descriptive statistics : we constructed many graphs to visualise the different properties of our data set, for example, to see if there was any relation with the price and other characteristics such as rating, type of announcement, etc. (All necessary explanations are written in the Visualisation notebook)
 
 In this notebook can be find some elements of response to our question, based on the graphs realised.
 
