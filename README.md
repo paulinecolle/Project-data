@@ -3,7 +3,7 @@
 ### Instructions on how we constructed our data management project 
 On this file, we will go through the different steps of each data frame and the eventual particularity in the code and why we did so. The question we aimed at answering with this project was *"How to choose the best accommodation for your vacation in Belgium?"*
 
-**1. Webscrapping part**
+**1. Webscrapping part: notebook Webscrapping**
 
 The project was carried out using Selenium, due to the structure of the website. The first step was therefore to install all the packages needed for our project and then open the Abritel webpage through Selenium and reject the cookies.
 
@@ -34,7 +34,7 @@ This information was stored in another data frame, and also exported as an Excel
 
 Finally, thanks to the "Names" column, the two previous data frames were merged into one. The file "Abritel_merged.xlsx" is the one that will be used for the rest of the project.
 
-**2.Visualisation part**
+**2.Visualisation part: notebook Visualisation**
 
 The first steps consist in loading and cleaning the data, with steps such as:
 - Installation of all the packages.
@@ -46,7 +46,7 @@ Then, the data will be represented in the form of graphs or maps:
 
 In this notebook can be found some elements of response to our question, based on the graphs realised.
 
-**3. Modelling**
+**3. Modelling: notebook Modelling**
 
 This last notebook constitutes the modelling part. We realised a linear regression with supervised machine learning, with the logarithm of the price per night as a dependent variable.
 
