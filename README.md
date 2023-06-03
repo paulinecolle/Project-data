@@ -35,6 +35,7 @@ This information was stored in another data frame, and also exported as an Excel
 Finally, thanks to the "Names" column, the two previous data frames were merged into one. The file "Abritel_merged.xlsx" is the one that will be used for the rest of the project.
 
 **2.Visualisation part**
+
 The first steps consist in loading and cleaning the data, with steps such as:
 - Installation of all the packages.
 - Import the merged data frame with all the information we webscrapped.
