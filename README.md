@@ -1,4 +1,4 @@
-# Data management project: Abritel
+# Data management project: How to choose the best accommodation for your vacation in Belgium?
 ## By Iman Ajdamova and Pauline Colle
 ### Instructions on how we constructed our data management project 
 On this file, we will go through the different steps of each data frame and the eventual particularity in the code and why we did so. The question we aimed at answering with this project was *"How to choose the best accommodation for your vacation in Belgium?"*
